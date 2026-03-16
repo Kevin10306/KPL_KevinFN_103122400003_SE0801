@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+.kotak-input {
+    display: block;
+    resize: none;
+    margin: auto;
+}
+
+p>span {
+    color: coral;
+    font-weight: bold;
+}
