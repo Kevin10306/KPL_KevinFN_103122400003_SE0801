@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+.kotak-input {
+    display: block;
+    resize: none;
+    margin: auto;
+}
+
+.mode-gelap {
+    background-color: #171b25;
+    color: #EBECF7;
+}
+
+button{
+    border: none; /* menghapus pinggiran tombol */
+}
+
+p>span {
+    color: coral;
+    font-weight: bold;
+}
+
+.mode-gelap button{
+    background-color: #29ddcc;
+}
+
+.mode-gelap .kotak-input{
+    background-color: #2e3443;
+    color: #EBECF7;
+}
