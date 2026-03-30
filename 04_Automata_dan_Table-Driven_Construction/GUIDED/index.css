@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+
+body{
+    text-align: center;
+    font-family: "Inconsolata";
+}
+
+p > span {
+    color: coral;
+    font-weight: bold;
+}
+
+.kotak-input{
+    display: block;
+    resize: none;
+    margin: auto;
+}
+
+button{
+    border: none; /* menghapus pinggiran tombol */
+}
+
+.grup-tg{
+    margin-top: 10px;
+}
+
+/* tekan tombol dan masuk ke mode gelap */
+.dark-mode{
+    background-color: #171b25;
+    color: #EBECF7;
+}
+
+/* warna kotak input dalam mode gelap */
+.dark-mode .kotak-input{
+    background-color: #2e3443;
+    color: #EBECF7;
+}
+
+/* Warna tombol ketika dalam mode gelap */
+.dark-mode button{
+    background-color: #29ddcc;
+}
