@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "is": "^3.3.2",
+    "number": "^0.0.1",
+    "persamaan": "file:../persamaan",
+    "type": "module"
+  }
+}
