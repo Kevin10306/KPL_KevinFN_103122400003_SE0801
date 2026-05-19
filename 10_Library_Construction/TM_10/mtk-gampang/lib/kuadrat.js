@@ -1,0 +1,1 @@
+export function kuadrat(x) { return x * x; }
